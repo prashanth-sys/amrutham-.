@@ -67,4 +67,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)  
+
+
+### 
+
+Hii Nxtwave team and amruth company 
+
+my self Prashanth 
+
+This assignment regarding amruth company intern assignment 
+
+1 first it is an react.js project 
+2 used react.js framwork 
+3 npm install -g create-react-app and create-react-app mtapp --use-npm 
+4 it has a nav bar with nav items 
+5 i includes and react icona and some other third party packages 
+6 I has clear cut Doctors and thei profile and experience and their spacialities and their show case 
+7 I use css for styling purpose for elements and icons 
+8 this is what my react assignment in simple. It takes me to complete 1 day 
+9 this ia all about my assignment 
+
+thank you nxtwave team and amuruth company 
+
